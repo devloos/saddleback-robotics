@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/mock_rover_env/mock_rover_env.egg-info/PKG-INFO
+../../build/mock_rover_env/mock_rover_env.egg-info/SOURCES.txt
+../../build/mock_rover_env/mock_rover_env.egg-info/dependency_links.txt
+../../build/mock_rover_env/mock_rover_env.egg-info/entry_points.txt
+../../build/mock_rover_env/mock_rover_env.egg-info/requires.txt
+../../build/mock_rover_env/mock_rover_env.egg-info/top_level.txt
+../../build/mock_rover_env/mock_rover_env.egg-info/zip-safe
+mock_rover_env/__init__.py
+mock_rover_env/camera_feed.py
+resource/mock_rover_env
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

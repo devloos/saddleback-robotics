@@ -1,0 +1,3 @@
+[console_scripts]
+camera_feed = mock_rover_env.camera_feed:main
+

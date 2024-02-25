@@ -1,0 +1,27 @@
+[4.937s] Invoking command in '/home/devlos/Development/Robotics/dev_ws/src/mock_rover_env': PYTHONPATH=/home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/prefix_override:/home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mock_rover_env build --build-base /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/build install --record /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/install.log --single-version-externally-managed
+[6.523s] running egg_info
+[6.528s] writing ../../build/mock_rover_env/mock_rover_env.egg-info/PKG-INFO
+[6.534s] writing dependency_links to ../../build/mock_rover_env/mock_rover_env.egg-info/dependency_links.txt
+[6.535s] writing entry points to ../../build/mock_rover_env/mock_rover_env.egg-info/entry_points.txt
+[6.536s] writing requirements to ../../build/mock_rover_env/mock_rover_env.egg-info/requires.txt
+[6.537s] writing top-level names to ../../build/mock_rover_env/mock_rover_env.egg-info/top_level.txt
+[6.548s] reading manifest file '../../build/mock_rover_env/mock_rover_env.egg-info/SOURCES.txt'
+[6.549s] adding license file 'LICENSE'
+[6.554s] writing manifest file '../../build/mock_rover_env/mock_rover_env.egg-info/SOURCES.txt'
+[6.555s] running build
+[6.555s] running build_py
+[6.557s] copying mock_rover_env/camera_feed.py -> /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/build/lib/mock_rover_env
+[6.558s] running install
+[6.559s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.560s]   warnings.warn(
+[6.562s] running install_lib
+[6.566s] copying /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/build/lib/mock_rover_env/camera_feed.py -> /home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages/mock_rover_env
+[6.569s] byte-compiling /home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages/mock_rover_env/camera_feed.py to camera_feed.cpython-310.pyc
+[6.573s] running install_data
+[6.576s] running install_egg_info
+[6.585s] removing '/home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages/mock_rover_env-0.0.0-py3.10.egg-info' (and everything under it)
+[6.587s] Copying ../../build/mock_rover_env/mock_rover_env.egg-info to /home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages/mock_rover_env-0.0.0-py3.10.egg-info
+[6.591s] running install_scripts
+[6.721s] Installing camera_feed script to /home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/mock_rover_env
+[6.723s] writing list of installed files to '/home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/install.log'
+[6.827s] Invoked command in '/home/devlos/Development/Robotics/dev_ws/src/mock_rover_env' returned '0': PYTHONPATH=/home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/prefix_override:/home/devlos/Development/Robotics/dev_ws/install/mock_rover_env/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/mock_rover_env build --build-base /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/build install --record /home/devlos/Development/Robotics/dev_ws/build/mock_rover_env/install.log --single-version-externally-managed
